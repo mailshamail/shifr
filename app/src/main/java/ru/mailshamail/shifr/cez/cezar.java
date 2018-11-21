@@ -27,7 +27,6 @@ public class cezar extends AppCompatActivity {
         text = (EditText)findViewById(R.id.text);
         key = (EditText)findViewById(R.id.key);
 
-
         resButton.setOnClickListener(new View.OnClickListener()
         {
             @Override
