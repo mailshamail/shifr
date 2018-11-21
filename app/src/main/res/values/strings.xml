@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">shifr</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="Atbash">Atbash</string>
+    <string name="Cezar">Cezar</string>
+    <string name="Polibiy">Шифр полибия</string>
+
+</resources>
